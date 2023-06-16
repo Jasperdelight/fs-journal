@@ -16,8 +16,8 @@
     ```js
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
-<!-- NOTE -->
-    > fruit.splice('pineapple')
+
+    > fruit.splice(2, 1)
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -33,8 +33,9 @@
         friends: []
     }
     ```
-<!-- NOTE -->
+
     >   you.friends.push(them)
+        them.friends.push(you)
 
 06. Give an example of a JavaScript `Conditional`:
 
