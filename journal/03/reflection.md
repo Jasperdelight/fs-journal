@@ -6,3 +6,6 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+
+  MVC was a very hard concept to grasp at first. Finally feels like i'm getting the hang of the order of everything. Still a bit lost on how to drill into each place to pull up the values i need but getting the hang of it.
