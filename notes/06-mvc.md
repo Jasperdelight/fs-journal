@@ -47,9 +47,47 @@ AppState.coins++
 Make functions on Controller. Then decalre it in Service
 
 On event in controller constructor AppState.on('coins", _drawCoins) (whenever anything in coins changes, run the function of drawcoins)
+import appstate to controller
 
 
 Emit (manually trigger an event, then the event listener will fire)
+
+
+<!-- SECTION -->
+
+inputs need name to enter that value into the class constructor function on submit pass parameter of event. createCar(event){
+
+}
+
+data from createCar controller goes to service which then goes to appdata
+
+crete function in car controller and link to car service, make function on controller then link to service
+
+create new const which consist of class from appstate. paramters include the data from class.
+<!-- car service -->
+createCar(carData){
+	const newCar = new Car(carData)	
+}
+
+<!-- SECTION thurs-->
+	Start with model to create data type
+
+	go to appstate to make data I.E values= 0
+
+	make controller
+
+
+<!-- SECTION Week 2 monday -->
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -26,7 +26,7 @@
 07. What does the `API` acronym stand for?
 
   > | ANSWER HERE |
-
+  
 08. What must you do in order to `await` a promise inside of a function?
 
   > | ANSWER HERE |
