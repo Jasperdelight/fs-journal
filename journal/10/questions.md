@@ -54,4 +54,4 @@
    So 
   SELECT houses.Id , cars.Id
   FROM houses
-  INNER JOIN cars ON houses.cars_Id = cars.cars_Id|
+  JOIN cars ON houses.cars_Id = cars.cars_Id|

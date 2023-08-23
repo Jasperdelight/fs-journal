@@ -5,3 +5,5 @@ double halfNum = 2.5;
 
 
 All repositories and services get put in startup.cs
+
+Auth0provider in controller
