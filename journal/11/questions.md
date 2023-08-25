@@ -5,7 +5,7 @@
 
 2. How does ***member inheritance*** work in C#? Does a `Class` inherit all members of the base `Class`?
 
-  > | Member inheritance works by the parent inheriting the child, a class does not inherit all members of the base class. for instance constructors and finalizers aren't inherited.|
+  > | Member inheritance works by a child taking most properties from a base class, however a class does not inherit all members of the base class. for instance constructors and finalizers aren't inherited.|
 
 3. How does ***accessibility*** affect inheritance?
 
